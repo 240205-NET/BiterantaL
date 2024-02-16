@@ -1,0 +1,3 @@
+global using Xunit;
+global using MoiUpdateInfoPosterForGameUpdates.Logic;
+global using MoiUpdateInfoPosterForGameUpdates;
