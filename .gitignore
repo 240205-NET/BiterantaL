@@ -1,2 +1,10 @@
 .vs/
-MoiUpdateInfoPosterForGameUpdates/.vs/
+MoiUpdateInfoPosterForGameUpdates.app/.vs/
+MoiUpdateInfoPosterForGameUpdates.app/bin/
+MoiUpdateInfoPosterForGameUpdates.app/obj/
+MoiUpdateInfoPosterForGameUpdates.logic/.vs/
+MoiUpdateInfoPosterForGameUpdates.logic/bin/
+MoiUpdateInfoPosterForGameUpdates.logic/obj/
+MoiUpdateInfoPosterForGameUpdates.test/.vs/
+MoiUpdateInfoPosterForGameUpdates.test/bin/
+MoiUpdateInfoPosterForGameUpdates.test/obj/
