@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <adminPinCode>420420</adminPinCode>
+  <posturl>https://moi.lawranta.com/updatePatchNotes.php</posturl>
+  <logPath>./saved/</logPath>
+</Settings>
