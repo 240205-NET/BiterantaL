@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<PostContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <title>Super Update</title>
-  <version>1.0.0.1</version>
-  <body>This is a new update</body>
-</PostContainer>
